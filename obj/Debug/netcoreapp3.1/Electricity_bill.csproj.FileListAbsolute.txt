@@ -1,0 +1,14 @@
+D:\My Work\C#\Electricity_bill\bin\Debug\netcoreapp3.1\Electricity_bill.exe
+D:\My Work\C#\Electricity_bill\bin\Debug\netcoreapp3.1\Electricity_bill.deps.json
+D:\My Work\C#\Electricity_bill\bin\Debug\netcoreapp3.1\Electricity_bill.runtimeconfig.json
+D:\My Work\C#\Electricity_bill\bin\Debug\netcoreapp3.1\Electricity_bill.runtimeconfig.dev.json
+D:\My Work\C#\Electricity_bill\bin\Debug\netcoreapp3.1\Electricity_bill.dll
+D:\My Work\C#\Electricity_bill\bin\Debug\netcoreapp3.1\Electricity_bill.pdb
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.csproj.AssemblyReference.cache
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.AssemblyInfoInputs.cache
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.AssemblyInfo.cs
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.csproj.CoreCompileInputs.cache
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.dll
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.pdb
+D:\My Work\C#\Electricity_bill\obj\Debug\netcoreapp3.1\Electricity_bill.genruntimeconfig.cache
